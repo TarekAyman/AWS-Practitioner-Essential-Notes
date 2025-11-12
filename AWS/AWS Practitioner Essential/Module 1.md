@@ -39,8 +39,7 @@
 - **Automatic scaling:** Can be configured to happen automatically
 ---
 ### 3. Three Core Benefits :
-![[Pasted image 20251112055603.png]]
-
+<img width="854" height="522" alt="Pasted image 20251112055603" src="https://github.com/user-attachments/assets/31207070-e5c1-458d-9f8a-0d957f8b23c1" />
 ---
 ## 4. Defining Cloud Computing
 
